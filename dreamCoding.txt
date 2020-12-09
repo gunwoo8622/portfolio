@@ -1,0 +1,91 @@
+academy dream coding 
+portfolio 
+
+html5 css3 vanillaJS
+
+1. 기획 디자인 wireframing을 통해서 골격을 어떻게 만들건지에 대해 구상
+
+2. git github 
+
+3. html head 파트 검색엔진에 적합한 내용 구상
+
+4. 박스 나누고 쪼개고 어떻게 마크업 하는지, 요즘 쓰는 BEM에 대해
+
+5. css 개념 노트 정리, 연습 
+
+6. 스타일링
+
+7. js 동적인 요소 추가, 문제 해결 능력
+
+8. 배포 url 
+
+-------------------------------------------------------------------
+
+마크업 언어 : <태그>들을 이용해서 구조적으로 작성된 언어
+
+html은 브라우저에서 실현 가능한 가장 기본적인 파일이고,
+마크업 언어로 구조적으로 <태그>를 통해 보여지고,
+<head>는 상세설명, <body>는 사용자에게 보여지는 태그로 이루어져 있다.
+
+MDN에서 정보확인 예제 통해서 배울 수 있다.
+
+validata에서 html코드 에러 있는지 확인
+
+MDN-document and website structure 에서 
+기본적인 웹사이트 구조를 나눠서 작성하는 법이 나와있다.
+꼭 따를 필요는 없다.
+
+Block 레벨 한 줄에 하나씩 배치
+Inline 공간이 허용하면 그 옆에 배치
+
+-------------------------------------------------------
+CSS
+1. 의미, 정의
+
+2. 선택자
+Universal *
+type tag
+id #id
+class .class
+state :
+attribute []  
+ex) a[href$=".com"] {}  
+  $:끝나는 조건 ^시작조건 없어도됨.
+선택자 연습 사이트 : https://flukeout.github.io/
+
+3. 스타일링
+
+4. 헷갈리는 컨셉
+-display
+inline - 컨텐트를 꾸민다. content가 없으면 나타나지 않는다.
+inline-block
+block
+
+-position
+static 기본값
+relative 있던 item 기준 상대적으로 옮겨짐
+absolute item이 담겨있는 가장 큰 상자를 기준 
+fixed 웹페이지 기준
+sticky 스크롤링 되어도 원래 있던 자리에 있는다.
+
+-caniuse 사이트에서 css호환성 확인
+
+5. css 꽃 : Flex box 
+-float 이미지와 텍스트 배치(left, center, right)
+
+flexbox는 2가지 중요개념
+1. container속성값 참고(css tricks)
+   item속성값 
+2. main axis(중심축), cross axis (반대축)
+ 수평, 수직에 따라 바뀔 수 있다.
+
+
+
+------------------------------------
+
+
+
+
+
+
+	
