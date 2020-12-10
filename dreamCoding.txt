@@ -83,6 +83,17 @@ flexbox는 2가지 중요개념
 
 ------------------------------------
 
+- defer 
+html이 pursuing한 다음에 자바스크립트 파일 실행
+
+- BEM (Block Element Modifier)
+클래스 이름을 잘 작성하는 규칙
+모듈화를 하고 postcss를 이용하면 BEM을 사용할 필요는 없다
+ex) Block__Element--Modifier 처럼 작성
+
+- 
+
+
 
 
 
